@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer() {
   return (
-    <div className="container">
+    <div className="container  col-lg-12">
         <div style={{height: 100}}></div>
         <hr />
         <div className="jumbotron">
